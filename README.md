@@ -4,7 +4,7 @@
   </a>
 
 <h1>
-  👾 AWS Amplify NextJS SSR
+  SRI AWS Amplify NextJS SSR
 </h1>
 <blockquote>Example of NextJS SSR example to deploy with AWS Amplify SSR Hosting using the PokéAPI</blockquote>
 
